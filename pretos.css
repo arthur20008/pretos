@@ -3,7 +3,7 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background: linear-gradient(to right, #0a0100, #3b0c0c, #3a2626, #e7c8c8); /* Gradiente de fundo */
+    background: linear-gradient(to right, #0a0100, #12058a, #ece5e5, #cf0202); /* Gradiente de fundo */
     color: #333; /* Cor do texto padrão */
 }
 
